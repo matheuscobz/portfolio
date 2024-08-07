@@ -630,6 +630,10 @@ input, select, textarea {
 				background-color: #8499e7;
 			}
 
+			.todo-list {
+				height: 700px;
+			}
+
 			body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);
 				-webkit-transform: scale(1.1);
